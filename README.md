@@ -5,7 +5,7 @@
   <img align="center" width="100" src="assets/logo.png" />
 
   <h1 align="center">Github BhagwadGita Quotes</h1>
-  <h3 align="center">Developer Quotes for your Github Readme.</h3>
+  <h3 align="center">Developer Quotes for your Github Readme</h3>
 </p>
 
 <!-- Badges -->
@@ -21,64 +21,7 @@
   <a href="https://twitter.com/darshansharma_" target="_blank">
     <img alt="Twitter: darshansharma_" src="https://img.shields.io/twitter/follow/darshansharma.svg?style=social" />
   </a>
-
-  <a href="https://darshan.sh" target="_blank">
-    <img alt="Website: darshan.sh" src="https://img.shields.io/badge/darshan.sh" />
-  </a>
 </p>
-
-<!-- Links -->
-<p align="center">
-  <a href="https://quotes-github-readme.vercel.app/api" target="_blank">View Demo</a>
-  <span> · </span>
-  <a href="https://github.com/piyushsuthar/github-readme-quotes/issues" target="_blank">Report Bug</a>
-</p>
-
-## Features ✨
-
-- [Dynamic quotes in your GitHub README](#Usage)
-- [Customize your own quote](#Custom)
-
-## Usage ⚡️
-
-Copy the markdown below and paste it in your Github Readme.
-
-```md
-![Chapter2 Verse19](verses/verse-02-19-1.png "Ch-02-19")
-```
-
-### Options
-
-| Options | Default  | Available                                                                                   |
-| ------- | -------- | ------------------------------------------------------------------------------------------- |
-| type    | vertical | horizontal, vertical                                                                        |
-| theme   | light    | dark, chartreuse-dark, radical, merko, gruvbox, tokyonight, algolia, monokai, dracula, nord |
-| quote   | -        | Customize your quote                                                                        |
-| author  | -        | The name of the quote's author                                                              |
-| border  | false    | true, false                                                                                 |
-
-### Chapter 02 Verse 19
-
-![Chapter2 Verse19](verses/verse-02-19-1.png "Ch-02-19")
-
-### Chapter 02 Verse 01
-
-![Chapter02 Verse1](verses/verse-02-01-1.png "Ch-02-01")
-
-### Chapter 13 Verse 12
-
-![Chapter13 Verse12](verses/verse-13-12-1.png "Ch-13-12")
-
-### Chapter 18 Verse 18
-
-![Chapter18 Verse18](verses/verse-18-18-1.png "Ch-18-18")
-
-
-## Custom
-
-> You need to add **/verses/verse-02-04-1.png** parameter.
-> URL encode your quote.
-
 
 
 ## Contributing 🤝
@@ -112,6 +55,63 @@ Be sure to drop a 🌟 if you like the project!
 <a href="https://www.leetcode.com/darshansharma_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dars-leetcode" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/darshansharma/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="darshan-geeks-geeks" height="30" width="40" /></a>
 </p>
+
+<p align="center">
+  <a href="https://quotes-github-readme.vercel.app/api" target="_blank">View Demo</a>
+  <span> · </span>
+  <a href="https://github.com/piyushsuthar/github-readme-quotes/issues" target="_blank">Report Bug</a>
+</p>
+
+## Features ✨
+
+- [Dynamic quotes in your GitHub README](#Usage)
+- [Customize your own quote](#Custom)
+
+## Usage ⚡️
+
+Copy the markdown below and paste it in your Github Readme.
+
+```md
+![Chapter2 Verse19](verses/verse-02-19-1.png "Ch-02-19")
+```
+
+### Options
+
+| Options | Default  | Available                                                                                   |
+| ------- | -------- | ------------------------------------------------------------------------------------------- |
+| type    | vertical | horizontal, vertical                                                                        |
+| theme   | light    | dark, chartreuse-dark, radical, merko, gruvbox, tokyonight, algolia, monokai, dracula, nord |
+| quote   | -        | Customize your quote                                                                        |
+| author  | -        | The name of the quote's author                                                              |
+| border  | false    | true, false                                                                                 |
+
+### Chapter 02 Verse 19
+
+<div background-color="black">
+
+```
+![Chapter2 Verse19](verses/verse-02-19-1.png "Ch-02-19")
+```
+
+![Chapter2 Verse19](verses/verse-02-19-1.png "Ch-02-19")
+
+### Chapter 02 Verse 01
+
+![Chapter02 Verse1](verses/verse-02-01-1.png "Ch-02-01")
+
+### Chapter 13 Verse 12
+
+![Chapter13 Verse12](verses/verse-13-12-1.png "Ch-13-12")
+
+### Chapter 18 Verse 18
+
+![Chapter18 Verse18](verses/verse-18-18-1.png "Ch-18-18")
+
+</div>
+## Custom
+
+> You need to add **/verses/verse-02-04-1.png** parameter.
+> URL encode your quote.
 
 
 <div align="center">Made by Darshan with ❤ and TypeScript & Node</div>
