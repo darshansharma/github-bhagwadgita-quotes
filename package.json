@@ -1,0 +1,20 @@
+{
+  "name": "github-bhagwadgita-quotes",
+  "version": "0.0.1",
+  "description": "Shrimad Bhagwad Gita Quotes to add in your readme file",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Darshan",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "cheerio": "^1.0.0-rc.12",
+    "typescript": "^5.4.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.25",
+    "ts-node": "^10.9.2"
+  }
+}
