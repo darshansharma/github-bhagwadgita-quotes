@@ -57,9 +57,7 @@ Be sure to drop a 🌟 if you like the project!
 </p>
 
 <p align="center">
-  <a href="https://quotes-github-readme.vercel.app/api" target="_blank">View Demo</a>
-  <span> · </span>
-  <a href="https://github.com/piyushsuthar/github-readme-quotes/issues" target="_blank">Report Bug</a>
+  <a href="https://github.com/darshansharma/github-bhagwadgita-quotes/issues" target="_blank">Report Bug</a>
 </p>
 
 ## Features ✨
@@ -87,17 +85,24 @@ Copy the markdown below and paste it in your Github Readme.
 
 ### Chapter 02 Verse 19
 
-<div background-color="black">
+<p background-color="black">
 
 ```
 ![Chapter2 Verse19](verses/verse-02-19-1.png "Ch-02-19")
 ```
+<p>
 
 ![Chapter2 Verse19](verses/verse-02-19-1.png "Ch-02-19")
+
+</p>
 
 ### Chapter 02 Verse 01
 
-![Chapter02 Verse1](verses/verse-02-01-1.png "Ch-02-01")
+<p>
+
+```![Chapter02 Verse1](verses/verse-02-01-1.png "Ch-02-01")```
+
+</p>
 
 ### Chapter 13 Verse 12
 
@@ -107,7 +112,8 @@ Copy the markdown below and paste it in your Github Readme.
 
 ![Chapter18 Verse18](verses/verse-18-18-1.png "Ch-18-18")
 
-</div>
+</p>
+
 ## Custom
 
 > You need to add **/verses/verse-02-04-1.png** parameter.
