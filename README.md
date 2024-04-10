@@ -36,7 +36,7 @@ Feel free to check [issues page](https://github.com/darshansharma/github-bhagwad
 
 ## Special Thanks ❤
 
-- Inspired from VidurGPT [darshansharma/darshansharma.github.io](https://darshan.sh).
+- Inspired from VidurGPT [darshansharma/darshansharma.github.io](https://vidurgpt.com).
 
 ## Show your support 🌈
 
