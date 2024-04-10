@@ -9,7 +9,7 @@
 </p>
 
 <!-- Badges -->
-<p align="center">/Users/dsha3112/Downloads/logo.png
+<p align="center">
   <a href="https://github.com/darshansharma/github-bhagwadgita-quotes/issues">
     <img src="https://img.shields.io/github/issues/darshansharma/github-bhagwadgita-quotes?style=flat-square">
   </a>
